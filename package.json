@@ -1,0 +1,24 @@
+{
+  "name": "restful-api-hapijs-dicoding",
+  "version": "1.0.0",
+  "description": "Craete restfull api using hapi js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utrodus/restful-api-hapijs-dicoding.git"
+  },
+  "keywords": [],
+  "author": "utrodus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utrodus/restful-api-hapijs-dicoding/issues"
+  },
+  "homepage": "https://github.com/utrodus/restful-api-hapijs-dicoding#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2"
+  }
+}
